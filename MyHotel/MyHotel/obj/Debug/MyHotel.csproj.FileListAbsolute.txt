@@ -1,0 +1,53 @@
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.exe.config
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.exe
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.pdb
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.Form1.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.exe
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.pdb
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.DashBoard.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_AddRoom.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\_5.UC_CustomerRes.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.exe.config
+D:\window d\final\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.exe
+D:\window d\final\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.pdb
+D:\window d\final\MyHotel\MyHotel\MyHotel\bin\Debug\Guna.UI2.dll
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.AssemblyReference.cache
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.SuggestedBindingRedirects.cache
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.DashBoard.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.Form1.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.Properties.Resources.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_AddRoom.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\_5.UC_CustomerRes.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.GenerateResource.cache
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CoreCompileInputs.cache
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CopyComplete
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.exe
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.pdb
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_CheckOut.resources
+D:\window d\final\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_CustomerDetail.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.exe.config
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.exe
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\bin\Debug\MyHotel.pdb
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.DashBoard.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.Properties.Resources.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_AddRoom.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_CheckOut.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_CustomerDetail.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\_5.UC_CustomerRes.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CopyComplete
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.exe
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.pdb
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_Employee.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\more.Form1.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_MonthlyReport.resources
+C:\Users\Admin\Desktop\MyHotel\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_Rating.resources

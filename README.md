@@ -20,5 +20,8 @@ B. Change connection in source code.
 
 3. paste the connection string to con.ConnectionString in function.cs file<br>
 ![connection string change](https://github.com/GDkelvin/Hotel-Management/assets/136468103/5e4433dd-5a1c-417f-948f-abe89c16ed0b)<br>
-Change Data Source=ADMIN\SQLEXPRESS, for example to ADMIN\\SQLEXPRESS (complete other if there are only one \ too)
+Change Data Source=ADMIN\SQLEXPRESS, for example to ADMIN\\\SQLEXPRESS (complete other if there are only one \ too)
+login account is: <br>
+admin <br>
+1234
 
